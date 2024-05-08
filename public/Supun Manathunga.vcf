@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Manathunga;Supun;;;
+FN:Supun Manathunga
+BDAY;value=date:1993-11-05
+ORG:Neurasense;
+TEL;type=HOME;waid=94711514190:+94 71 151 4190
+EMAIL;type=INTERNET;type=HOME:ssm123ssm@gmail.com
+EMAIL;type=INTERNET;type=WORK:supun@neurasense.io
+item1.ADR;type=HOME:;;191,\r\nWard Place;Colombo 7;;;Sri Lanka
+item2.ADR;type=HOME:;;191,\r\nWard Place;Colombo 7;;;Sri Lanka
+item2.X-ABADR:lk
+END:VCARD
